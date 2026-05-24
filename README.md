@@ -9,7 +9,7 @@ The dashboard helps analyze:
 - Product category performance
 - Customer segmentation
 - Monthly sales trends
-- 
+  
 ## Dashboard Pages
 
 ### 1. Sales Analysis Dashboard
@@ -29,7 +29,7 @@ The dashboard helps analyze:
 - VIP customers
 - Spending behavior
 - Quantity analysis
-- 
+  
 ## Tools & Technologies Used
 - Power BI
 - DAX
