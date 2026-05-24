@@ -55,10 +55,10 @@ Khairnar Harshal
 ## Dashboard Preview
 
 ### Sales Dashboard
-![Sales Dashboard]( Retails Sales Analysis.png )
+![Sales Dashboard]( RetailsSalesAnalysis.png )
 
 ### Customer Analysis Dashboard
-![Customer Analysis]( Customer Analysis.png )
+![Customer Analysis]( CustomerAnalysis.png )
 
 ### Customer Segmentation Dashboard
-![Segmentation Dashboard]( Customer Segmentation.png )
+![Segmentation Dashboard]( CustomerSegmentation.png )
